@@ -1,0 +1,60 @@
+/* IMPOSTAZIONI GENERALI */
+html {
+  font-family: "Poppins", sans-serif;
+  margin: 8px;
+}
+
+body {
+  height: 500px;
+  background-image: url(./img/sfondo.png);
+  align-items: auto;
+}
+
+.content {
+  display: inline-block;
+  width: 400px;
+  background-color: #2e6a85;
+  margin: 8px;
+}
+
+.logo {
+  width: 200px;
+  margin-left: 100px;
+}
+.content h2 {
+  color: white;
+}
+.subtitle {
+  margin-left: 70px;
+}
+
+.home {
+  margin-left: 11em;
+  padding-bottom: 5px;
+}
+.articoli {
+  margin-left: 10.2em;
+  padding-bottom: 5px;
+}
+.lavora-con-noi {
+  margin-left: 8em;
+}
+
+main {
+  width: 500px;
+  background-color: white;
+  border-radius: 20%;
+}
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
